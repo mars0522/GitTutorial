@@ -1,2 +1,2 @@
 # GitTutorial
-Here we are deep diving into Git.
+Here We Are Deep Diving Into Git.
